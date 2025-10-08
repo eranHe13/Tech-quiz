@@ -1,0 +1,446 @@
+[
+  {
+    "id": 1,
+    "question": "API",
+    "options": [
+      "Application Programming Interface",
+      "Automated Process Integration",
+      "Algorithmic Programming Instance",
+      "Advanced Protocol Interface"
+    ],
+    "answer": "Application Programming Interface"
+  },
+  {
+    "id": 2,
+    "question": "CLI",
+    "options": [
+      "Command Line Interface",
+      "Computer Logic Interaction",
+      "Client Local Input",
+      "Code Level Integration"
+    ],
+    "answer": "Command Line Interface"
+  },
+  {
+    "id": 3,
+    "question": "REST",
+    "options": [
+      "Representational State Transfer",
+      "Remote Execution State Technology",
+      "Rapid Exchange Service Transfer",
+      "Resource Endpoint Service Transport"
+    ],
+    "answer": "Representational State Transfer"
+  },
+  {
+    "id": 4,
+    "question": "JSON",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Standard Object Naming",
+      "Joint Service Object Network",
+      "JavaScript Ordered Node"
+    ],
+    "answer": "JavaScript Object Notation"
+  },
+  {
+    "id": 5,
+    "question": "HTTP",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Transfer Text Protocol",
+      "Hyperlink Text Transport Protocol",
+      "Host Transfer Technology Protocol"
+    ],
+    "answer": "HyperText Transfer Protocol"
+  },
+  {
+    "id": 6,
+    "question": "SQL",
+    "options": [
+      "Structured Query Language",
+      "Simple Query Logic",
+      "Sequential Query List",
+      "System Query Language"
+    ],
+    "answer": "Structured Query Language"
+  },
+  {
+    "id": 7,
+    "question": "AI",
+    "options": [
+      "Artificial Intelligence",
+      "Automated Interaction",
+      "Advanced Integration",
+      "Algorithm Interface"
+    ],
+    "answer": "Artificial Intelligence"
+  },
+  {
+    "id": 8,
+    "question": "ML",
+    "options": [
+      "Machine Learning",
+      "Multi-Layer",
+      "Managed Logic",
+      "Memory Load"
+    ],
+    "answer": "Machine Learning"
+  },
+  {
+    "id": 9,
+    "question": "CSS",
+    "options": [
+      "Cascading Style Sheets",
+      "Computer Style System",
+      "Central Style Service",
+      "Custom Style Syntax"
+    ],
+    "answer": "Cascading Style Sheets"
+  },
+  {
+    "id": 10,
+    "question": "DOM",
+    "options": [
+      "Document Object Model",
+      "Data Object Management",
+      "Dynamic Operation Mode",
+      "Digital Object Mapping"
+    ],
+    "answer": "Document Object Model"
+  } , 
+  
+    {
+      "id": 11,
+      "question": "GPU",
+      "options": [
+        "Graphics Processing Unit",
+        "General Processing Utility",
+        "Global Program Unit",
+        "Graphical Performance Utility"
+      ],
+      "answer": "Graphics Processing Unit"
+    },
+    {
+      "id": 12,
+      "question": "CPU",
+      "options": [
+        "Central Processing Unit",
+        "Core Processing Utility",
+        "Computer Program Unit",
+        "Centralized Power Unit"
+      ],
+      "answer": "Central Processing Unit"
+    },
+    {
+      "id": 13,
+      "question": "OOP",
+      "options": [
+        "Object Oriented Programming",
+        "Operational Output Processing",
+        "Ordered Object Parsing",
+        "Open Output Protocol"
+      ],
+      "answer": "Object Oriented Programming"
+    },
+    {
+      "id": 14,
+      "question": "HTML",
+      "options": [
+        "HyperText Markup Language",
+        "High Transfer Markup Logic",
+        "Host Text Modeling Language",
+        "Hyper Transfer Management Layer"
+      ],
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": 15,
+      "question": "NLP",
+      "options": [
+        "Natural Language Processing",
+        "Network Logic Processing",
+        "Neural Learning Program",
+        "Numeric Language Parser"
+      ],
+      "answer": "Natural Language Processing"
+    },
+    {
+      "id": 16,
+      "question": "IDE",
+      "options": [
+        "Integrated Development Environment",
+        "Internal Debug Engine",
+        "Interactive Data Editor",
+        "Integrated Design Extension"
+      ],
+      "answer": "Integrated Development Environment"
+    },
+    {
+      "id": 17,
+      "question": "SDK",
+      "options": [
+        "Software Development Kit",
+        "System Design Kernel",
+        "Service Deployment Key",
+        "Secure Developer Knowledge"
+      ],
+      "answer": "Software Development Kit"
+    },
+    {
+      "id": 18,
+      "question": "API Key",
+      "options": [
+        "Unique token for API authentication",
+        "Encryption password for REST servers",
+        "Local database access code",
+        "Hash used to verify cookies"
+      ],
+      "answer": "Unique token for API authentication"
+    },
+    {
+      "id": 19,
+      "question": "CRUD",
+      "options": [
+        "Create Read Update Delete",
+        "Compute Run Upload Download",
+        "Code Retrieve Use Deploy",
+        "Cache Read Unload Data"
+      ],
+      "answer": "Create Read Update Delete"
+    },
+    {
+      "id": 20,
+      "question": "JWT",
+      "options": [
+        "JSON Web Token",
+        "Java Web Transfer",
+        "Joint Web Tracker",
+        "JavaScript Widget Type"
+      ],
+      "answer": "JSON Web Token"
+    },
+    {
+      "id": 21,
+      "question": "CI/CD",
+      "options": [
+        "Continuous Integration / Continuous Deployment",
+        "Central Input / Core Delivery",
+        "Compute Integration / Code Design",
+        "Continuous Input / Continuous Dataflow"
+      ],
+      "answer": "Continuous Integration / Continuous Deployment"
+    },
+    {
+      "id": 22,
+      "question": "DNS",
+      "options": [
+        "Domain Name System",
+        "Data Network Service",
+        "Distributed Node Server",
+        "Domain Network Source"
+      ],
+      "answer": "Domain Name System"
+    },
+    {
+      "id": 23,
+      "question": "IP",
+      "options": [
+        "Internet Protocol",
+        "Internal Port",
+        "Integration Point",
+        "Input Process"
+      ],
+      "answer": "Internet Protocol"
+    },
+    {
+      "id": 24,
+      "question": "SSH",
+      "options": [
+        "Secure Shell",
+        "System Socket Host",
+        "Server Shared Hub",
+        "Secure System Handler"
+      ],
+      "answer": "Secure Shell"
+    },
+    {
+      "id": 25,
+      "question": "SSL",
+      "options": [
+        "Secure Sockets Layer",
+        "Server Security Link",
+        "Simple Socket Lock",
+        "Secure System Layer"
+      ],
+      "answer": "Secure Sockets Layer"
+    },
+    {
+      "id": 26,
+      "question": "TLS",
+      "options": [
+        "Transport Layer Security",
+        "Transfer Logic Server",
+        "Trusted Link System",
+        "Transmission Level Shield"
+      ],
+      "answer": "Transport Layer Security"
+    },
+    {
+      "id": 27,
+      "question": "DNS Record",
+      "options": [
+        "Entry mapping domain names to IP addresses",
+        "Backup of database entries",
+        "Encrypted token for API calls",
+        "Registry of software licenses"
+      ],
+      "answer": "Entry mapping domain names to IP addresses"
+    },
+    {
+      "id": 28,
+      "question": "JSON Schema",
+      "options": [
+        "Defines structure and validation of JSON data",
+        "Compression algorithm for JSON files",
+        "Template for HTML rendering",
+        "Security model for web tokens"
+      ],
+      "answer": "Defines structure and validation of JSON data"
+    },
+    {
+      "id": 29,
+      "question": "SDK vs API",
+      "options": [
+        "SDK provides tools to build; API defines how to communicate",
+        "SDK defines endpoints; API builds libraries",
+        "SDK and API are identical terms",
+        "SDK is used for security; API for UI"
+      ],
+      "answer": "SDK provides tools to build; API defines how to communicate"
+    },
+    {
+      "id": 30,
+      "question": "DNS Lookup",
+      "options": [
+        "Process of finding an IP from a domain name",
+        "Uploading domain configuration",
+        "Encrypting HTTP traffic",
+        "Assigning new ports to server"
+      ],
+      "answer": "Process of finding an IP from a domain name"
+    },
+    {
+      "id": 31,
+      "question": "GPU Acceleration",
+      "options": [
+        "Using GPU to speed up computation tasks",
+        "Compressing data for smaller storage",
+        "Increasing internet speed",
+        "Rendering text instead of graphics"
+      ],
+      "answer": "Using GPU to speed up computation tasks"
+    },
+    {
+      "id": 32,
+      "question": "Prompt Engineering",
+      "options": [
+        "Designing effective inputs for AI models",
+        "Coding neural networks from scratch",
+        "Optimizing database indexing",
+        "Generating UI components automatically"
+      ],
+      "answer": "Designing effective inputs for AI models"
+    },
+    {
+      "id": 33,
+      "question": "LLM",
+      "options": [
+        "Large Language Model",
+        "Logical Learning Machine",
+        "Linked Layer Model",
+        "Long Linear Memory"
+      ],
+      "answer": "Large Language Model"
+    },
+    {
+      "id": 34,
+      "question": "Docker",
+      "options": [
+        "Platform for containerizing applications",
+        "Cloud hosting service",
+        "File compression software",
+        "Version control tool"
+      ],
+      "answer": "Platform for containerizing applications"
+    },
+    {
+      "id": 35,
+      "question": "Kubernetes",
+      "options": [
+        "System for automating container orchestration",
+        "Linux distribution for servers",
+        "Web server framework",
+        "CI/CD deployment language"
+      ],
+      "answer": "System for automating container orchestration"
+    },
+    {
+      "id": 36,
+      "question": "Git",
+      "options": [
+        "Version control system",
+        "Package manager",
+        "Programming language",
+        "Build automation tool"
+      ],
+      "answer": "Version control system"
+    },
+    {
+      "id": 37,
+      "question": "Branch (Git)",
+      "options": [
+        "Separate line of development in a repository",
+        "Backup of repository commits",
+        "Security token in GitHub",
+        "Tag for release version"
+      ],
+      "answer": "Separate line of development in a repository"
+    },
+    {
+      "id": 38,
+      "question": "Merge Conflict",
+      "options": [
+        "When changes from two branches clash in the same file",
+        "When repository loses history",
+        "When push command fails due to permission",
+        "When branch is locked by admin"
+      ],
+      "answer": "When changes from two branches clash in the same file"
+    },
+    {
+      "id": 39,
+      "question": "Pull Request",
+      "options": [
+        "Request to merge code from one branch to another",
+        "Command to fetch files from remote repository",
+        "Backup request before commit",
+        "Trigger for deployment pipeline"
+      ],
+      "answer": "Request to merge code from one branch to another"
+    },
+    {
+      "id": 40,
+      "question": "Agile",
+      "options": [
+        "Iterative software development methodology",
+        "Programming framework",
+        "Database design tool",
+        "Machine learning algorithm"
+      ],
+      "answer": "Iterative software development methodology"
+    }
+  ]
+  
+
+
