@@ -4,6 +4,21 @@ const QuestionCard = ({ question, onAnswer }) => {
   const [selectedAnswer, setSelectedAnswer] = useState(null);
   const [showFeedback, setShowFeedback] = useState(false);
   
+  const shuffleArray = (array) => {
+    // Fisher-Yates shuffle
+    const arr = [...array];
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+  };
+
+  const shuffledOptions = useMemo(() => {
+    if (!question) return [];
+    return shuffleArray(question.options);
+  }, [question]);
+  
   if (!question) return null;
   
   const handleAnswerClick = (option) => {
@@ -27,22 +42,6 @@ const QuestionCard = ({ question, onAnswer }) => {
   const isWrongAnswer = (option) => {
     return showFeedback && option === selectedAnswer && option !== question.answer;
   };
-
-
-  
-  const shuffleArray = (array) => {
-    // Fisher-Yates shuffle
-    const arr = [...array];
-    for (let i = arr.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [arr[i], arr[j]] = [arr[j], arr[i]];
-    }
-    return arr;
-  };
-
-  const shuffledOptions = useMemo(() => {
-    return shuffleArray(question.options);
-  }, [question]);
 
 
 

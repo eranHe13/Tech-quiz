@@ -7,7 +7,7 @@ import SummaryPage from './pages/Summary';
 
 function App() {
   return (
-    <Router basename="/Tech-quiz">
+    <Router basename="/">
       <GameProvider>
         <div className="min-h-screen relative overflow-hidden" dir="rtl">
           {/* Animated Background */}
